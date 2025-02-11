@@ -8,4 +8,4 @@ PowerBI Skills:
 
 * Imported data into PowerBI.
 * Designed a report.
-* Created a PowerBI dashboard with data visualisations
+* Created a PowerBI dashboard with data visualisations.
