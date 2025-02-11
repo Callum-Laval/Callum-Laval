@@ -1,7 +1,7 @@
 Cloud Computing Skills:
 * We researched and answered different questions related to cloud computing such as what can cloud-computing do for use in the real world, how can it benefit businesses, what are the alternatives to cloud computing and what cloud providers can we use.
 * We researched and wrote about Iaas, PaaS and SaaS. We explained what they are and how they are used in the real world.
-* We reseached and wrote about public cloud, private cloud, hyrbid cloud and community cloud. Explaining what they are and when in the real world you would use them.
+* We reseached and wrote about public cloud, private cloud, hybrid cloud and community cloud. Explaining what they are and when in the real world you would use them.
 
 Azure Skills:
 * We explored how Azure can be used to explore relational and non-relational data.
